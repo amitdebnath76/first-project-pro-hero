@@ -1,0 +1,157 @@
+.head {
+  margin: 80px 100px auto 100px;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  position: absolute;
+  display: inline-block;
+
+  color: white;
+}
+
+.headding {
+  font-size: 50px;
+
+  text-align: center;
+}
+.new-year {
+  font-size: 100px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.off {
+  margin-top: 100px;
+  text-align: center;
+  color: #ff0000;
+  font-size: 100px;
+}
+.holiday {
+  margin-top: 35px;
+  text-align: center;
+  color: #ff0000;
+  font-size: 20px;
+  font-weight: bold;
+}
+.categories {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+
+  padding-bottom: 30px;
+}
+.year-photo {
+  display: flex;
+}
+.photo {
+  align-items: center;
+  justify-content: center;
+  margin: 50px auto auto auto;
+  padding-bottom: 50px;
+}
+
+.victory {
+  display: flex;
+  align-content: start;
+  justify-content: start;
+  margin: 80px 150px auto 150px;
+  position: relative;
+  padding-bottom: 60px;
+}
+.party {
+  position: absolute;
+  display: inline-block;
+  color: rgb(252, 252, 252);
+  text-align: left;
+  padding-left: 80px;
+}
+.welcome {
+  /* font-size: 100px; */
+  text-align: left;
+  font-weight: 900;
+  font-size: 100px;
+  margin-bottom: 0;
+  padding: 0;
+}
+.welcome-02 {
+  text-align: left;
+  font-weight: 900;
+  font-size: 100px;
+  margin-bottom: 0;
+}
+.vec-image {
+  width: 100%;
+  height: auto;
+}
+.btn-01 {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  color: white;
+  margin-left: 20px;
+}
+.information {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+  margin: 80px 150px auto 150px;
+  padding: 100px 386px 214px 385px;
+}
+.add-color {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+}
+.align {
+  text-align: center;
+  justify-content: center;
+}
+.btn-02 {
+  color: white;
+  background: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  border: none;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 100px 150px 0px 150px;
+}
+.gift {
+  margin-top: 30px;
+  margin-left: 150px;
+  padding-top: 50px;
+  line-height: 0%;
+  padding-bottom: 20px;
+}
+.best-gift {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: bold;
+}
+.awesome {
+  color: #070211;
+
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+}
+.picture-one {
+  display: flex;
+  margin: 0 150px 0 150px;
+  justify-content: space-between;
+  padding-bottom: 15px;
+}
+.img-one:hover {
+  transform: scale(1.05);
+}
