@@ -155,3 +155,42 @@
 .img-one:hover {
   transform: scale(1.05);
 }
+.footer {
+  background-color: black;
+  margin: 100px 150px 0px 150px;
+  display: flex;
+  
+
+  
+}
+.test-part {
+  color: white;
+  font-family: Merriweather;
+  
+ 
+}
+.address {
+  display: block;
+  margin-left: 50px;
+  
+}
+.wed-add{
+  
+  
+  text-align: right;
+}
+
+.image-foot {
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+.number{
+  text-align: right;
+}
+
+.last text {
+  font-size: 25px;
+
+  
+}
